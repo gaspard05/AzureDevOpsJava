@@ -30,4 +30,4 @@ steps:
     containerRegistry: 'dockerazuredevops'
     repository: 'gaspard05 / azuredevops'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: '**/AzureDockerfile'
